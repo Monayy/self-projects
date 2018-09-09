@@ -29,7 +29,7 @@ pause
 cls
 start Chrome "https://www.youtube.com/watch?v=3I42jddKG5g&feature=youtu.be"
 pause
-echo Haha xD alors elle t'a fait rigoler ?
+echo Haha xD alors elle t'as fait rigoler ?
 echo Moi en tout cas, j'ai bien rigole :D !
 
 set input=
